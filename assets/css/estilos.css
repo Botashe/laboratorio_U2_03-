@@ -1,0 +1,17 @@
+#titulo1{
+    text-align: center;
+    color:white;
+    padding: 10px;
+    background-color:darkred;
+}
+
+#table{
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    border-collapse: separate;  
+}
+
+#boton{
+    text-align: center;
+}
